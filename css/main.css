@@ -18,7 +18,7 @@ body{
 
 #rosa{
 	background-color: #EE3E64; 
-	position: absolute;
+	/*position: absolute;
 	/*  desafio 3
 	left: 0;
 	top: 0;*/
@@ -29,11 +29,12 @@ body{
 	position: relative;
 	/* desafio 2
 	*/
-	left: 200px;
+	left: 450px;
 	/* desafio 3
 	right: 0;
 	*/
 	top:200px;
+	right: 0;
 }
 
 #verde{
