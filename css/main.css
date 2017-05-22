@@ -1,0 +1,31 @@
+body{
+	margin:0;
+	padding: 0;
+
+}
+.contenedor{
+	margin: 0;
+	padding: 0;
+
+}
+.caja{
+	width: 200px;
+	height: 200px;
+
+}
+
+#rosa{
+	background-color: #EE3E64;
+
+}
+
+#azul{
+	background-color: #1F2CD4;
+	position: relative;
+	left: 200px;
+}
+
+#verde{
+	background-color: #22CD2E;
+
+}
