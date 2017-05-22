@@ -11,33 +11,42 @@ body{
 .caja{
 	width: 200px;
 	height: 200px;
-	position: absolute;
+	/* desafio 3
+	position: absolute;*/
 
 }
 
 #rosa{
 	background-color: #EE3E64; 
+	position: absolute;
+	/*  desafio 3
 	left: 0;
-	top: 0;
+	top: 0;*/
 }
 
 #azul{
 	background-color: #1F2CD4;
 	position: relative;
-	/*left: 200px;*/
+	/* desafio 2
+	*/
+	left: 200px;
+	/* desafio 3
 	right: 0;
-	top:0;
+	*/
+	top:200px;
 }
 
 #verde{
 	background-color: #22CD2E;
+	/* desafio 3
 	left: 0;
-	bottom: 0;
+	bottom: 0;*/
 
 }
 
 #amarillo{
-	background-color: ##DFDD12;
+	background-color: #DFDD12;
+	/* desafio 3
 	right: 0;
-	bottom: 0;
+	bottom: 0*/
 }
